@@ -1,0 +1,10 @@
+DCIT323 LAB ASSIGNMENT 1
+
+Name: Roland Kwesi Otabil
+Student ID: 22268717
+
+This repository was created to demonstrate
+how to use GitHub for version control.
+
+I have successfully created and cloned this
+repository to my local computer.
